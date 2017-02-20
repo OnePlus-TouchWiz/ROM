@@ -1,0 +1,5 @@
+4
+SamsungPayStub.apk
+CnnPanel.apk
+SamsungUpdates.apk
+OMCAgent.apk

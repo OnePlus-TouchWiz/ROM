@@ -1,0 +1,20 @@
+Number of modules
+1
+Thu, 02 Feb 2017 20:31:20 +0900
+service@system/app/Nfc.odex
+service@system/app/NfcNci.odex
+service@system/app/NfcSony.odex
+lib@system/lib/libnfc_jni.so
+lib@system/lib/libnfc_nci_jni.so
+lib@system/lib/libnfc_sony_jni.so
+lib@system/lib/libnfc.so
+lib@system/lib/libnfc-nci.so
+lib@system/lib/libnfc_sony.so
+client@system/app/SmartcardService.odex
+clientlib@system/framework/org.simalliance.openmobileapi.odex
+clientlib@system/framework/com.android.nfc_extras.odex
+config@system/etc/nfcee_access.xml
+690d4a0fd2a8b0061f37943fcd28e46d11f205b2
+€ùMõv¨y¨#\W`Qd²ã¦ÆÏ@šö>j=­V"R}Þïœ²ÕSõ2ðj°=‘Ô©óð"ªçÞ¶ÎšË„6Üd!X
+÷sA\è:É’,>;’xw4Ÿ`†JéQ08PœÞ¿4GqhÒÅõð+Œ]Ü4.vÁ½ã‹LÞó3Üq£Ÿ¸V-ç2·=£,Æi¶P¼Vex¶¶%Úllô-)*Ä¨†ŽÖÞÆúÃvƒHxC7‘i&0–ÀžŠøüU\\f¤Bþ½nÖWñkÐ69m«êº¾œB¦Ž—<cìµj×šÞçÖ‚ÉHñš\sÔÉxe]
+HEA

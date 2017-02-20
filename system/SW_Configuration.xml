@@ -1,0 +1,12 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SM-G9350</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>G9350ZZH</CSCName>
+	<CSCVersion>2APL1</CSCVersion>
+	<NbCustomer>1</NbCustomer>
+	<CustomerData src="/Customer/TGY/customer.xml" />
+	</CustomerDataSet>
+</SW-Configuration>
