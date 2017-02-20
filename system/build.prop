@@ -71,7 +71,7 @@ ro.hwui.text_large_cache_height=2048
 # system.prop for msm8996
 #
 
-ro.sf.lcd_density=640
+ro.sf.lcd_density=420
 
 debug.sf.hw=1
 debug.egl.hw=1
