@@ -826,8 +826,9 @@ set_metadata("/system/vendor/bin/mm-pp-dpps", "selabel", "u:object_r:mm-pp-daemo
 set_metadata("/system/vendor/bin/qseeproxydaemon", "selabel", "u:object_r:qseeproxy_exec:s0");
 set_metadata("/system/vendor/bin/RIDLClient.exe", "selabel", "u:object_r:RIDL_exec:s0");
 set_progress(0.700000);
-ui_print(" "); ui_print("Extracting boot image..."); ui_print(" ");
-package_extract_file("boot.img", file_getprop("/tmp/config", "byname") + "/boot" + file_getprop("/tmp/config", "slotnum")); set_progress(0.800000);
+ui_print("Extracting boot image..."); 
+package_extract_file("boot.img", "/dev/block/bootdevice/by-name/boot");
+set_progress(0.800000);
 #ROOT
 package_extract_dir("rootzip", "/tmp/rootzip");
 run_program("/sbin/busybox", "unzip", "/tmp/rootzip/SuperSU-v2.79-SR3.zip", "META-INF/com/google/android/*", "-d", "/tmp/rootzip");
