@@ -829,8 +829,6 @@ set_progress(0.700000);
 ui_print("Extracting boot image..."); 
 package_extract_file("boot.img", "/dev/block/bootdevice/by-name/boot");
 set_progress(0.800000);
-
-set_progress(0.900000);
 ifelse(is_mounted("/system"), unmount("/system"));
 set_progress(1.000000);
 ui_print("Reboot.... Now done");
