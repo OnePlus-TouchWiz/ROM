@@ -133,8 +133,6 @@ symlink("/system/lib/libbluetooth_jni.so", "/system/app/Bluetooth/lib/arm/libblu
 symlink("/system/lib/libcommonpawrapper.so", "/system/app/RootPA/lib/arm/libcommonpawrapper.so");
 symlink("/system/lib/libQjpeg.so", "/system/priv-app/SelectiveFocusViewer/lib/arm/libQjpeg.so");
 symlink("/system/lib/libsecipx.so", "/system/priv-app/SelectiveFocusViewer/lib/arm/libsecipx.so");
-symlink("/system/lib/libsvoicedll.so", "/system/priv-app/SVoice/lib/arm/libsvoicedll.so");
-symlink("/system/lib/libsvoicedll.so", "/system/priv-app/SVoicePLM/lib/arm/libsvoicedll.so");
 symlink("/system/sbin/busybox", "/system/sbin/[");
 symlink("/system/sbin/busybox", "/system/sbin/[[");
 symlink("/system/sbin/busybox", "/system/sbin/acpid");
